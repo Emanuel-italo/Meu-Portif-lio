@@ -1,3 +1,9 @@
 :root {
     --primary: #CC092F; /*adicionando vermelho no meu css*/
+    --secondary: #172B4D; /* Azul Profissional */
+    --accent: #FFD700; /* Dourado */
+    --dark: #111111;
+    --light: #FFFFFF;
+    --gray: #F5F5F5;
+    --dark-gray: #333333;
 }
