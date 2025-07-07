@@ -55,3 +55,9 @@ body {
 .sidebar nav ul li {
   margin: 2rem 0;
 }
+
+.sidebar nav ul li a {
+  color: var(--light);
+  font-size: 1.2rem;
+  transition: all 0.3s ease;
+}
