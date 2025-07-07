@@ -13,3 +13,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  font-family: 'Poppins', sans-serif;  /* Define a fonte do texto */
+  background-color: var(--light);      /* Cor de fundo (clara) */
+  color: var(--dark);                  /* Cor do texto (escura) */
+  display: flex;                       /* Ativa o layout Flexbox esse foi capaz de alterar toda minha pagina html*/
+  line-height: 1.6;                    /* Espaçamento entre linhas */
+}
+
