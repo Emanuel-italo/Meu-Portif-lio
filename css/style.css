@@ -51,3 +51,7 @@ body {
 .sidebar nav ul {
     list-style: none;
 }
+
+.sidebar nav ul li {
+  margin: 2rem 0;
+}
