@@ -43,3 +43,7 @@ body {
     transform: rotate(180deg);
     margin: 2rem 0;
 }
+
+.logo span {
+  color: var(--accent);
+}
